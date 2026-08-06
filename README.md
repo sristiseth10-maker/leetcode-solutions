@@ -14,6 +14,7 @@ this repo will show my DSA problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -43,8 +44,13 @@ this repo will show my DSA problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
