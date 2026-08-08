@@ -29,6 +29,7 @@ this repo will show my DSA problems
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
@@ -59,4 +60,12 @@ this repo will show my DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
