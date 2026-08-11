@@ -13,6 +13,7 @@ this repo will show my DSA problems
 | [0088-merge-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -39,6 +40,7 @@ this repo will show my DSA problems
 | [0016-3sum-closest](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -55,6 +57,7 @@ this repo will show my DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
