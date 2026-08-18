@@ -14,6 +14,7 @@ this repo will show my DSA problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ this repo will show my DSA problems
 | [0069-sqrtx](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ this repo will show my DSA problems
 | [0075-sort-colors](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -64,6 +67,7 @@ this repo will show my DSA problems
 | [0141-linked-list-cycle](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -74,6 +78,7 @@ this repo will show my DSA problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -88,4 +93,8 @@ this repo will show my DSA problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
