@@ -16,6 +16,7 @@ this repo will show my DSA problems
 | [0217-contains-duplicate](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -97,4 +98,12 @@ this repo will show my DSA problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
