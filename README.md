@@ -89,6 +89,7 @@ this repo will show my DSA problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0707-design-linked-list](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -106,4 +107,8 @@ this repo will show my DSA problems
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
