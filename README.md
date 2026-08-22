@@ -78,6 +78,7 @@ this repo will show my DSA problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
