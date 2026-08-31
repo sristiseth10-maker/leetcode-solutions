@@ -10,6 +10,7 @@ this repo will show my DSA problems
 | [0016-3sum-closest](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -38,6 +39,7 @@ this repo will show my DSA problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sristiseth10-maker/leetcode-solutions/tree/master/0268-missing-number) |
